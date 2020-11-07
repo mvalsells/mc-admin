@@ -1,7 +1,7 @@
 # mc-admin
 
 ## Description
-Basic administration bash scripts when Minecraft is running with in a screen on Linuk
+Basic administration bash scripts when Minecraft is running with in a screen on Linux
 
 Features:
 * Start/stop Minecraft
