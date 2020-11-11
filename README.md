@@ -12,4 +12,4 @@ Features:
 
 Known issues:
 - [ ] If you input a letter instead of a number in the menu selection might cause error
-- [ ] After finishing the backup the program exists instead of going back tu the main menu
+- [ ] After finishing the backup the program exits instead of going back to the main menu
